@@ -62,6 +62,5 @@ This module covers best practices in Python coding, following standard conventio
 - Modularize code into functions and classes.
 - Document code with docstrings.
 
-## Next Steps
-Proceed to the next module: **Web App Deployment using Flask**.
+
 
